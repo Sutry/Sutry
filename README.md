@@ -11,13 +11,22 @@ I am a Drupal Developer
 **Languages and Tools:**
 
 ![Linux](https://img.shields.io/badge/-Linux?logo=Linux&style=social&label=Linux&color=magenta)&nbsp;&nbsp;
+![FreeBSD](https://img.shields.io/badge/-Linux?logo=FreeBSD&style=social&label=FreeBSD&color=magenta)&nbsp;&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows?logo=Windows&style=social&label=Windows&color=magenta)&nbsp;&nbsp;
+
+![Apache](https://img.shields.io/badge/-Apache?logo=Apache&style=social&label=Apache&color=magenta)&nbsp;&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx?logo=Nginx&style=social&label=Nginx&color=magenta)&nbsp;&nbsp;
+
 ![Docker](https://img.shields.io/badge/-Docker?logo=Docker&style=social&label=Docker&color=magenta)&nbsp;&nbsp;
 
 ![Bash](https://img.shields.io/badge/-Bash?logo=Bash&label=Bash&style=social&color=blue)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript?logo=javascript&style=social&label=JS&color=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript?logo=javascript&style=social&label=JS&color=blue)&nbsp;&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql&style=social&label=MySQL&color=yellow)&nbsp;&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB?logo=MariaDB&style=social&label=MariaDB&color=magenta)&nbsp;&nbsp;
+
+
+![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git?logo=git&style=social&label=Git&labelColor=green)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub?logo=github&style=social&label=GitHub&labelColor=green)&nbsp;&nbsp;
