@@ -33,7 +33,7 @@ Migrate/upgrade from old Drupal versions to the current new one
 ![PHP](https://img.shields.io/badge/-PHP?logo=PHP&label=PHP&style=social&color=magenta)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript?logo=JavaScript&label=JavaScript&style=social&color=magenta)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery?logo=jQuery&style=social&label=jQuery&color=magenta)&nbsp;&nbsp;
-![Go](https://img.shields.io/badge/-go?logo=go&label=go&style=social&color=magenta)&nbsp;&nbsp;
+[![Go](https://img.shields.io/badge/-go?logo=go&label=go&style=social&color=magenta)](https://go.dev)&nbsp;&nbsp;
 ![Shell Script](https://img.shields.io/badge/-shell_script?logo=gnu-bash&label=shell_script&style=social&color=magenta)&nbsp;&nbsp;
 ![Bash](https://img.shields.io/badge/-shell_script?logo=gnu-bash&label=Bash&style=social&color=blue)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-html5?logo=html5&label=html5&style=social&color=magenta)&nbsp;&nbsp;
