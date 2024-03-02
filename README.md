@@ -3,7 +3,7 @@ I am a Drupal Developer
 
 <!--<p align="center">-->
 <a href="https://www.linkedin.com/in/andrew-vtyurin-02391514"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-[![Telegram Badge](https://img.shields.io/badge/-Sutry-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Advert_plus)](https://t.me/Advert_plus)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Advert_plus)
 
 <!--</p>-->
 
