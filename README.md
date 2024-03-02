@@ -6,6 +6,9 @@ I am a Drupal Developer
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Advert_plus)
 [![Skype Badge](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/DUtiP5D0h8V0)
 
+A comprehensive solution for website development, ranging from single-page landing sites to full-fledged multilingual sites and portals. 
+Custom Themes and Modules, Semantic markup Schema.org (ld+json/Microdata). Non-standard projects, SEO, hosting, maintenance...
+Migrate/upgrade from old Drupal versions to the current new one 
 <!--</p>-->
 
 **Languages and Tools:**
