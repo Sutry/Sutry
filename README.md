@@ -15,10 +15,10 @@
 ![Git](https://img.shields.io/badge/-Git?logo=git&style=social&label=Git&labelColor=green)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub?logo=github&style=social&label=GitHub&labelColor=green)&nbsp;&nbsp;
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mturnaviotov&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mturnaviotov&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sutry&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutry&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mturnaviotov.mturnaviotov)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sutry.Sutry)
 
 <!--
 **Sutry/Sutry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
