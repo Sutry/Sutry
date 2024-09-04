@@ -25,7 +25,7 @@ Migrate/upgrade from old Drupal versions to the current new one
 
 ![Docker](https://img.shields.io/badge/-Docker?logo=Docker&style=social&label=Docker&color=magenta)&nbsp;&nbsp;
 [![DDEV](https://img.shields.io/badge/-DDEV?logo=DDEV&style=social&label=DDEV&color=magenta)](https://ddev.com)&nbsp;&nbsp;
-![Docksal](https://img.shields.io/badge/-Docksal?logo=Docksal&style=social&label=Docksal&color=magenta)&nbsp;&nbsp;
+[![Docksal](https://img.shields.io/badge/-Docksal?logo=Docksal&style=social&label=Docksal&color=magenta)](https://docksal.io)&nbsp;&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql&style=social&label=MySQL&color=yellow)&nbsp;&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB?logo=MariaDB&style=social&label=MariaDB&color=magenta)&nbsp;&nbsp;
@@ -48,7 +48,7 @@ Migrate/upgrade from old Drupal versions to the current new one
 ![Jira](https://img.shields.io/badge/-Jira?logo=Jira&label=Jira&style=social&color=magenta)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma?logo=Figma&style=social&label=Figma&color=magenta)&nbsp;&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro?logo=Adobe%20Premiere%20Pro&style=social&label=Adobe%20Premiere%20Pro&color=magenta)&nbsp;&nbsp;
-![Gimp](https://img.shields.io/badge/-Gimp?logo=Gimp&style=social&label=Gimp&color=magenta)&nbsp;&nbsp;
+[![Gimp](https://img.shields.io/badge/-Gimp?logo=Gimp&style=social&label=Gimp&color=magenta)](https://www.gimp.org)&nbsp;&nbsp;
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare?logo=Cloudflare&label=Cloudflare&style=social&color=magenta)&nbsp;&nbsp;
 ![Rss](https://img.shields.io/badge/-Rss?logo=Rss&style=social&label=Rss&color=magenta)&nbsp;&nbsp;
 ![Wikipedia](https://img.shields.io/badge/-Wikipedia?logo=Wikipedia&style=social&label=Wikipedia&color=magenta)&nbsp;&nbsp;
